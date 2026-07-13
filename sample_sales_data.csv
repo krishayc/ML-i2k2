@@ -1,0 +1,44 @@
+order_id,order_date,category,region,month,sales,quantity,customer_name
+1,2026-06-04,Electronics,East,Feb,,,Kim
+2,2026-04-02,Electronics,North,Feb,,,
+3,2026-06-23,Toys,South,Apr,,6.0,PRIYA
+4,2026-03-05,Clothing,East,Jan,,12.0,Kim
+5,2026-03-26,Electronics,West,May,462.0,3.0,
+6,2026-05-28,Food,South,Jun,,,Sam
+7,2026-01-13,Food,West,Jun,,12.0,Sam
+8,2026-06-09,Electronics,South,May,,15.0,PRIYA
+9,2026-06-23,Clothing,East,Jan,,11.0,PRIYA
+10,2026-01-07,Food,South,Jun,1547.77,5.0,Sam
+11,2026-02-24,Food,West,May,,5.0,  Alex  
+12,2026-01-28,Electronics,South,Jun,563.95,,jordan
+13,2026-04-20,Toys,East,May,,4.0,
+14,2026-03-04,Food,West,Feb,1415.8,,Kim
+15,2026-01-28,Food,South,Feb,,,Kim
+16,2026-03-16,Electronics,North,Mar,2648.29,,Sam
+17,2026-05-03,Electronics,West,Jan,,5.0,Kim
+18,2026-02-09,Toys,South,May,,10.0,
+19,2026-06-12,Toys,West,Jan,,,Kim
+20,2026-05-08,Clothing,North,Jan,,,  Alex  
+21,2026-03-03,Clothing,East,Jun,,19.0,Sam
+22,2026-04-26,Toys,South,Jan,381.1,12.0,jordan
+23,2026-04-28,Electronics,North,Jan,1267.6,,Sam
+24,2026-02-18,Toys,South,Apr,632.12,,jordan
+25,2026-05-04,Electronics,North,Jan,,6.0,jordan
+26,2026-04-07,Toys,North,Feb,1199.02,9.0,PRIYA
+27,2026-04-23,Toys,South,Feb,,,
+28,2026-03-02,Electronics,West,May,,,Sam
+29,2026-01-20,Electronics,South,Apr,,,Kim
+30,2026-01-14,Food,East,Feb,2042.21,8.0,jordan
+31,2026-02-22,Food,West,Mar,,1.0,Kim
+32,2026-05-04,Electronics,South,May,869.08,,PRIYA
+33,2026-03-06,Toys,East,May,,18.0,
+34,2026-01-05,Food,North,Jan,,9.0,Kim
+35,2026-02-23,Food,South,Jun,1939.29,17.0,PRIYA
+36,2026-01-03,Toys,East,Jan,,,
+37,2026-04-18,Toys,North,Jan,,,PRIYA
+38,2026-05-18,Clothing,West,Feb,221.3,2.0,Sam
+39,2026-06-08,Electronics,East,May,2663.99,,Sam
+40,2026-02-26,Clothing,West,Jan,620.15,,PRIYA
+4,2026-03-05,Clothing,East,Jan,,12.0,Kim
+11,2026-02-24,Food,West,May,,5.0,  Alex  
+23,2026-04-28,Electronics,North,Jan,1267.6,,Sam
